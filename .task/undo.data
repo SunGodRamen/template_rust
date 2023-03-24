@@ -1,3 +1,6 @@
 time 1679149259
 new [description:"write rust hid listener" entry:"1679149259" modified:"1679149259" status:"pending" uuid:"5cc4d789-0ab1-43d0-b5ef-ec7be1467214"]
 ---
+time 1679616595
+new [description:"test hid listen with intel chip" entry:"1679616595" modified:"1679616595" status:"pending" uuid:"b2f99caf-c45a-43d9-870c-9436c1910c2a"]
+---
